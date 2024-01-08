@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "jackyu",
+      "email": "jack@gmail.com",
+      "mobile": 85768986546,
+      "city": "Bengaluru"
+    },
+    {
+      "id": 6,
+      "name": "kiran",
+      "email": "kiran7@gmail.com",
+      "mobile": 9657845789,
+      "city": "Mumbai"
+    },
+    {
+      "id": 7,
+      "name": "lakshmi ",
+      "email": "lakshmi@gmail.com",
+      "mobile": 9618795610,
+      "city": "pkl"
+    },
+    {
+      "id": 8,
+      "name": "akhil",
+      "email": "akhil@gmail.com",
+      "mobile": 91123456789,
+      "city": "HYD"
+    },
+    {
+      "id": 9,
+      "name": "Ganesh",
+      "email": "ganesh@gmail.com",
+      "mobile": 901086329,
+      "city": "RJY"
+    },
+    {
+      "id": 10,
+      "name": "Induu",
+      "email": "indu3@gmail.com",
+      "mobile": 92472952078,
+      "city": "VJY"
+    }
+  ],
+  "signup": [
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "mobile": 9658745692,
+      "password": "abcd",
+      "id": 1
+    },
+    {
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "mobile": 4152452414,
+      "password": "abcd",
+      "id": 2
+    },
+    {
+      "name": "bhavya",
+      "email": "bhavyag@gmail.com",
+      "mobile": 9618795610,
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
